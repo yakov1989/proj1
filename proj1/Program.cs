@@ -10,6 +10,7 @@ namespace proj1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("motek");
         }
     }
 }
